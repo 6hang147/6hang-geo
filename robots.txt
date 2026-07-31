@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /baidu_verify_*
+
+Sitemap: https://6hang147.github.io/6hang-geo/sitemap.xml
